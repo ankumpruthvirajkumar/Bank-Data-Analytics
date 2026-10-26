@@ -25,6 +25,7 @@ To access the datasets used in this project, please use the link below.
 - Calculated and reviewed important banking KPIs.
 - Created the Bank Loan Analytics dashboard using charts, summary metrics, and interactive filters.
 - Analyzed loan amounts, interest, collections, defaults, delinquency, loan status, age groups, and product categories.
+![Bank Loan Analysis Dashboard](https://drive.google.com/drive/folders/1s3vYYcnM9cF1TNW8mgwixn1CDGddTMjk?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
 
 ### 2. MySQL
 
