@@ -16,8 +16,6 @@ To access the datasets used in this project, please use the link below.
 
 ### 1. Microsoft Excel
 
-**[View Excel Project Files]([PASTE_EXCEL_LINK_HERE](https://drive.google.com/drive/folders/1LJaKI1ObU7H4oJOvi5-f743AnhyxCL_6?usp=drive_link))**
-
 **What I Did:**
 - Cleaned and prepared banking data for analysis.
 - Reviewed missing values, inconsistent entries, and data quality issues.
