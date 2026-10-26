@@ -25,7 +25,11 @@ To access the datasets used in this project, please use the link below.
 - Calculated and reviewed important banking KPIs.
 - Created the Bank Loan Analytics dashboard using charts, summary metrics, and interactive filters.
 - Analyzed loan amounts, interest, collections, defaults, delinquency, loan status, age groups, and product categories.
+# BANK LOAN 
 <img width="1166" height="662" alt="EXCEL 1 Data" src="https://github.com/user-attachments/assets/7f03d522-6cf2-4e6b-b4b4-f91b7c91f3e8" />
+#DEBIT AND CREDIT
+<img width="941" height="583" alt="EXCEL 2 Data" src="https://github.com/user-attachments/assets/a76dd5e3-0adf-4861-b1fe-aeb34dc6d0d6" />
+
 
 ### 2. MySQL
 
@@ -49,6 +53,11 @@ To access the datasets used in this project, please use the link below.
 - Compared transaction activity across banks and branches.
 - Analyzed high-risk versus normal transaction classifications.
 - Added interactive filters for bank, branch, transaction method, transaction date, transaction type, and risk flag.
+# BANK LOAN 
+<img width="1191" height="660" alt="PowerBI 1 data" src="https://github.com/user-attachments/assets/07abaf2b-bdaa-46cc-88f5-38b41280155e" />
+#DEBIT AND CREDIT
+<img width="1332" height="702" alt="PowerBI 2  data" src="https://github.com/user-attachments/assets/8ac462d8-cf7a-45a6-835b-d6483af6f82e" />
+
 
 ### 4. Tableau
 
@@ -59,6 +68,11 @@ To access the datasets used in this project, please use the link below.
 - Used Tableau to create data visualizations and analytical reports.
 - Explored banking data through charts and category comparisons.
 - Presented trends and summarized information to make the data easier to understand.
+# BANK LOAN 
+<img width="1173" height="829" alt="Tableaue 1 Data" src="https://github.com/user-attachments/assets/281f4222-4a76-4e20-9f7b-fc5b1b423451" />
+#DEBIT AND CREDIT
+<img width="1179" height="820" alt="Tableaue 2 Data" src="https://github.com/user-attachments/assets/7d1b28d8-9530-4635-83e8-8bb5f903c18d" />
+
 
 ### 5. Dashboard Screenshots
 
