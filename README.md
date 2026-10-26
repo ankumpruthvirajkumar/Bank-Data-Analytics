@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes banking data to understand loan performance, debit and credit transactions, collection recovery, and financial risk. The goal is to identify trends and present useful insights through dashboards and reports.
 
+##  To access the datasets used in this project use the link below
+[data sets](https://drive.google.com/drive/folders/1TCMIE52c4cSmujMwI19aODqgmoTOYeQD?usp=drive_link)
 ## Tools Used
 - **Microsoft Excel:** Data cleaning, preparation, and analysis
 - **SQL / MySQL:** Data queries and analysis
